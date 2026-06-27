@@ -17,3 +17,7 @@
 <img width="445" height="1016" alt="螢幕擷取畫面 2026-06-28 040034" src="https://github.com/user-attachments/assets/bf1b73fa-58d5-4cf7-ba43-f4bc7e270d10" />
 
 畫圖時不能動滑鼠，按 F8 可以暫停
+
+畫正式圖之前可以先畫各比例的外框圖試試是否能正確畫滿
+
+<img width="150" height="84" alt="341_20260628042805" src="https://github.com/user-attachments/assets/8961316b-298d-4838-bf0f-c6599afeda99" />
